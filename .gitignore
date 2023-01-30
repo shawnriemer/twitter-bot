@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+*.ipynb
+
+# archive directories:
+archive/
+
+# engagments file
+cool_engagements
+
+# data directories
+data/
+daily_data_v2/
+
+# created graphics
+created_graphics/
+
+# powerpoint
+*.pptx
